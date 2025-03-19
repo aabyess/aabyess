@@ -16,8 +16,8 @@
 - 클린 코드와 좋은 아키텍처 설계에 집중
 
 ### 📫 연락처 및 블로그
-- Email : a00411@naver.com
-- Tech Blog : [[https://블로그링크](https://abyess.tistory.com)](https://블로그링크)
+- 📧 Email : a00411@naver.com
+- 🌐 Tech Blog : [https://abyess.tistory.com](https://abyess.tistory.com)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aabyess)
 
