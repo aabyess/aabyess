@@ -5,6 +5,23 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
+### 🌱 현재 하고 있는 것
+- React와 Vue를 활용한 웹 개발 프로젝트
+- 모바일 앱 개발 및 유지보수
+- 새로운 기술 탐색 및 학습
+
+### 🎯 관심 분야 및 목표
+- 효율적인 웹 개발 방법론 연구
+- 사용자 중심의 모바일 애플리케이션 개발
+- 클린 코드와 좋은 아키텍처 설계에 집중
+
+### 📫 연락처 및 블로그
+- Email : example@email.com
+- Tech Blog : [https://블로그링크](https://블로그링크)
+- LinkedIn : [LinkedIn 프로필 링크](링크URL)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aabyess)
+
 
 <!--
 **aabyess/aabyess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
