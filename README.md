@@ -30,7 +30,7 @@
 - 📧 Email : a00411@naver.com
 - 📝 Tech Blog (학습 정리용) : [Tistory](https://abyess.tistory.com)
 - 🔍 Tech Blog (개인 학습 및 탐구) : [Velog](https://velog.io/@aabyess/posts)
-
+- etc :https://github.com/KimSangya/Ignis
 
 
 
